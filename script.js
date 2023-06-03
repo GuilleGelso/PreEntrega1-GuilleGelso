@@ -76,7 +76,7 @@ do {
       
     }
 
-    agregar=Number(prompt("Ingrese 1 para Agregar" + "\n" + "Ingrese 2 para salir"))
+    agregar=Number(prompt("Ingrese 1 para Seguir en la Tienda" + "\n" + "Ingrese 2 para salir"))
  
   
 
